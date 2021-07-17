@@ -1,3 +1,7 @@
+# written by Lutz Herrmann
+# www.bitpilot.de
+# 17.07.2021
+
 import time
 import pygame, sys
 from pygame.locals import *
